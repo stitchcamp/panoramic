@@ -174,7 +174,7 @@ def main(args):
         except Exception as e:
             print(f"\nError: Failed to save panorama to {output_path}")
             print(f"Reason: {e}")
-            return # Exit if saving fails
+            return # Exit if fails
  
         # Optionally display the result
         if args.display:
