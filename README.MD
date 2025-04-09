@@ -64,7 +64,7 @@ When creating action shots with this script, keep these key points in mind for b
 10. **Post-Processing**
     - The script output may benefit from additional editing
     - You might need to manually clean up areas where detection wasn't perfect
-    - Consider adjusting contrast/brightness of the final image
+    - Consider adjusting contrast/brightness of the final image.
 
 For best results, start with a test sequence in controlled conditions to understand how the parameters affect your specific shooting situation.
 

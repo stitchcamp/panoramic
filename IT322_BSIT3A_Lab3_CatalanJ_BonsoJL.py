@@ -398,7 +398,7 @@ if __name__ == "__main__":
         help="Display the resulting image in a window after processing."
     )
  
-    # Parse arguments from command line
+    # Parse arguments from cmd
     args = parser.parse_args()
  
     # Run the main function
